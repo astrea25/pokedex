@@ -32,11 +32,14 @@ npm run dev
 
 ## API Information
 
-This project uses the [PokéAPI](https://pokeapi.co/) - a free, comprehensive RESTful API for Pokémon data. The application fetches:
-
+This project uses the 
+[PokéAPI](https://pokeapi.co/) - a free, comprehensive RESTful API for Pokémon data. The application fetches:
 - Basic Pokémon list data
 - Detailed information for each Pokémon
 - Type information for determining weaknesses
+
+[PokemonGo Type Chart](https://www.eurogamer.net/pokemon-go-type-chart-effectiveness-weaknesses) - an article about Pokemon type effectiveness and weaknesses.
+
 
 ## License
 
